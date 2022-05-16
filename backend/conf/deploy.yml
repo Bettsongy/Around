@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://35.192.173.21:9200"
+  username: "bettsongy"
+  password: "671115Sjm"
+
+gcs:
+  bucket: "kevinsong-bucket"
+
+token:
+  secret: "secret"
